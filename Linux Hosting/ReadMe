@@ -1,0 +1,12 @@
+Hosted a Website on Linux!
+
+I recently set up a web server on Linux, configuring firewall settings, hosting services, and security rules to ensure smooth and secure operations. Here’s a quick overview of what I worked on:
+
+🔹 Configured Firewalld: Set up rules to allow essential services like HTTP (port 80), SSH, and HTTPS for secure access.
+🔹 Verified Firewall Status: Ensured firewalld was active and running without issues.
+🔹 Hosting Setup: Deployed a website using Apache/Nginx, configured virtual hosts, and managed hosting services.
+🔹 Tested Hosting on Firefox: Successfully accessed the hosted website, ensuring proper DNS resolution and firewall allowances.
+
+This was a great hands-on experience with Linux server administration, firewall security, and web hosting! Excited to explore more advanced configurations and optimizations.
+I recently set up a web server on Linux, configuring firewall settings, hosting services, and security rules to ensure smooth and secure operations. Here’s a quick overview of what I worked on: 🔹 Configured Firewalld: Set up rules to allow essential services like HTTP (port 80), SSH, and HTTPS for secure access. 🔹 Verified Firewall Status: Ensured firewalld was active and running without issues. 🔹 Hosting Setup: Deployed a website using Apache/Nginx, configured virtual hosts, and managed hosting services. 🔹 Tested Hosting on Firefox: Successfully accessed the hosted website, ensuring proper DNS resolution and firewall allowances. This was a great hands-on experience with Linux server administration, firewall security, and web hosting! Excited to explore more advanced configurations and optimizations.
+Skills: Linux · Linux Firewalls · Linux Server · linux networking · Linux Desktop · CentOS · SSH · Httpd · Https · Web Hosting · Hosting Services · Network Security
