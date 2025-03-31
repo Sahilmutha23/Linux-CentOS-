@@ -1,0 +1,16 @@
+Secure Remote Access via SSH on CentOS 9
+Secure Remote Access via SSH on CentOS 9
+Mar 2025 - Mar 2025Mar 2025 - Mar 2025
+I worked on configuring SSH (Secure Shell) access in CentOS 9 to establish secure remote access between two systems. The project involved user management, remote file creation, SSH configuration tuning, and connection verification using a single gateway IP.
+
+Key Features & Steps:
+✅ Creating & managing user access across systems using IP's👨‍💻
+✅ Establishing a connection using a single gateway IP 🌐
+✅ Checking and verifying SSH service status to ensure smooth functionality📊
+✅ Editing & fine-tuning SSH configuration files ⚙️
+✅ Configuring SSH for secure remote access 🔗
+✅ Verifying remote access by creating & managing files 📂
+
+This project helped me strengthen my Linux administration and network security skills by implementing a real-time SSH configuration.
+I worked on configuring SSH (Secure Shell) access in CentOS 9 to establish secure remote access between two systems. The project involved user management, remote file creation, SSH configuration tuning, and connection verification using a single gateway IP. Key Features & Steps: ✅ Creating & managing user access across systems using IP's👨‍💻 ✅ Establishing a connection using a single gateway IP 🌐 ✅ Checking and verifying SSH service status to ensure smooth functionality📊 ✅ Editing & fine-tuning SSH configuration files ⚙️ ✅ Configuring SSH for secure remote access 🔗 ✅ Verifying remote access by creating & managing files 📂 This project helped me strengthen my Linux administration and network security skills by implementing a real-time SSH configuration.
+Skills: Linux · CentOS · linux networking · Network Security · Linux Firewalls · SSH · Remote Access · Remote User Support · Remote Monitoring
